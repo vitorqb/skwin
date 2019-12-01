@@ -1,0 +1,10 @@
+* Skwin
+
+  Skwin is a very simple C program that accepts a text input, displays it into
+  a gtk3 dialog window and listens to a single user keypress, returning it.
+
+  It is a small utility function I use when I want to prove the user with
+  some options he can choose with a single keystroke, and then do something else,
+  but I'm calling it outside of a terminal (shell).
+  
+  [[img/base-usage.gif]]
